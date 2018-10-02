@@ -16,7 +16,7 @@
 #
 # How can we refactor this practice problem to make the result easier to predict and easier for the next programmer to maintain?
 
-# solution:
+# solution from page:
 
 def not_so_tricky_method(a_string_param, an_array_param)
   a_string_param += "rutabaga"
